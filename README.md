@@ -15,4 +15,10 @@
 <br>
 
 #### <div align="center">📧 : devyun6160@gmail.com</div>
+
+<br>
+
+# <div align="center">📢Blog📢</div>
+<br>
+
 #### <div align="center">📒 : https://dev-yun6160.tistory.com</div>
