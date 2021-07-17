@@ -1,16 +1,17 @@
-### Hi there 👋
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JeongHyun_Yun%20&fontSize=60&animation=twinkling&fontAlignY=42"></div>
+<br>
 
-<!--
-**yun6160/yun6160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# <div align="center">✨My Stack✨</div>
 
-Here are some ideas to get you started:
+<br>
+<br>
+<p align="center"><img src="https://img.shields.io/badge/Java-f55354?style=flat-square&logo=Java&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-ffcc00?style=flat-square&logo=JavaScript&logoColor=white" height="25"></p>
+<p align="center"><img src="https://img.shields.io/badge/SpringBoot-7fc638?style=flat-square&logo=Springboot&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-7fc638?style=flat-square&logo=Spring&logoColor=white" height="25"></p>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# <div align="center">📬Contact📬</div>
+
+<br>
+
+### <div align="center">📧 : devyun6160@gmail.com</div>
