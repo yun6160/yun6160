@@ -14,4 +14,5 @@
 
 <br>
 
-### <div align="center">📧 : devyun6160@gmail.com</div>
+#### <div align="center">📧 : devyun6160@gmail.com</div>
+#### <div align="center">📒 : https://dev-yun6160.tistory.com</div>
