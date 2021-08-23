@@ -6,7 +6,7 @@
 <br>
 <br>
 <p align="center"><img src="https://img.shields.io/badge/Java-f55354?style=flat-square&logo=Java&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-ffcc00?style=flat-square&logo=JavaScript&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS-6633FF?style=flat-square&logo=CSS3&logoColor=white" height="25"></p>
-<p align="center"><img src="https://img.shields.io/badge/SpringBoot-7fc638?style=flat-square&logo=Springboot&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-7fc638?style=flat-square&logo=Spring&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle DB-F80000?style=flat-square&logo=Oracle&logoColor=white" height="25"></p>
+<p align="center"><img src="https://img.shields.io/badge/SpringBoot-7fc638?style=flat-square&logo=Springboot&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-7fc638?style=flat-square&logo=Spring&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" height="25"></p>
 <br>
 <br>
 
