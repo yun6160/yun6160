@@ -21,6 +21,6 @@
 # <div align="center">📢Blog📢</div>
 <br>
 
-#### <div align="center">📒 : https://dev-yun6160.tistory.com</div>
+#### <div align="center">📒 : https://velog.io/@yun6160</div>
 
 #### <div align="center">👉 : https://jhyuun.notion.site/Jeonghyun-Yun-5e25789b848841d9aed0898b0da2b56a</div>
