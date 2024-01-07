@@ -1,26 +1,16 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=JeongHyun_Yun%20&fontSize=60&animation=twinkling&fontAlignY=42"></div>
-<br>
+# Hallo👋 정현입니다
+[![Gmail](
+https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=devyun@gamil.com
+)](mailto:devyun@gamil.com)[![velog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yun6160)](https://velog.io/@yun6160)
 
-# <div align="center">✨My Stack✨</div>
+### Who Am I
+- 📝 저는 요즘 `React.js`,`Typescript`,`Node.js`를 공부하고 있어요
+- 🎼 저는 음악을 전공했어요
+- 🏠 저는 현재 서울에서 생활하고 있어요
 
-<br>
-<br>
-<p align="center"><img src="https://img.shields.io/badge/Java-f55354?style=flat-square&logo=Java&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-ffcc00?style=flat-square&logo=JavaScript&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" height="25"></p>
-<p align="center"><img src="https://img.shields.io/badge/SpringBoot-7fc638?style=flat-square&logo=Springboot&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Spring-7fc638?style=flat-square&logo=Spring&logoColor=white" height="25">&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white" height="25"></p>
-<br>
-<br>
+### Experience
+- 🐥 데브코스 타입스크립트로 함께하는 웹 개발 풀스택 (2023.11~ )
+- 💼 (주)로고스시스템 전임 엔지니어 (2021.11~2023.05)
+- 🐣 비트캠프 Framework 전문 개발자 양성과정 수료 (2021.05~2021.09)
 
-# <div align="center">📬Contact📬</div>
-
-<br>
-
-#### <div align="center">📧 : devyun6160@gmail.com</div>
-
-<br>
-
-# <div align="center">📢Blog📢</div>
-<br>
-
-#### <div align="center">📒 : https://velog.io/@yun6160</div>
-
-#### <div align="center">👉 : https://jhyuun.notion.site/Jeonghyun-Yun-5e25789b848841d9aed0898b0da2b56a</div>
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yun6160&tag=TIL)](https://velog.io/@yun6160)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun6160&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
