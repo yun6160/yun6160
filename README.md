@@ -1,7 +1,7 @@
 # Hallo👋 정현입니다
 [![Gmail](
 https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=devyun@gamil.com
-)](mailto:devyun@gamil.com)[![velog](https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yun6160)](https://velog.io/@yun6160)
+)](mailto:devyun@gamil.com)[![velog](https://img.shields.io/badge/halloyun-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yun6160)](https://velog.io/@yun6160)
 
 ### Who Am I
 - 📝 저는 요즘 `React.js`,`Typescript`,`Node.js`를 공부하고 있어요
