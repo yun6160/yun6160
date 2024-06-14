@@ -13,4 +13,4 @@ https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor
 - 💼 (주)로고스시스템 전임 엔지니어 (2021.11~2023.05)
 - 🐣 비트캠프 Framework 전문 개발자 양성과정 수료 (2021.05~2021.09)
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yun6160)](https://velog.io/@yun6160)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yun6160&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yun6160)](https://velog.io/@yun6160)
